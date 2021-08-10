@@ -211,7 +211,9 @@
 * UserName: `pilsa115`
 * password : `pilsa115`   
 
-![data-modeling](./img/database-model.png)
+![data-modeling](./img/Database-model.png)
+
+
 #### :floppy_disk: 투자상품 기본 (INVEST_PRODUCT_TM) 설계
 ![INVEST_PRODUCT_TM](./img/INVEST_PRODUCT_TM.jpg)
 
